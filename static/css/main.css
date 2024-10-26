@@ -34,3 +34,10 @@ header p {
     font-size: 5rem;
 }
 
+
+/* selector por id */
+
+#text-a1 {
+    color: blueviolet;
+    
+}
